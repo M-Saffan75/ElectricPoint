@@ -4,10 +4,7 @@ import ElectricPoint from './Screens/ElectricPoint'
 const App = () => {
   return (
     <>
-      {/* <ElectricPoint /> */}
-      <View>
-        <Text>ElectricPoint</Text>
-      </View>
+      <ElectricPoint />
     </>
   )
 }
